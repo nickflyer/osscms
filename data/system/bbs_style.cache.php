@@ -1,0 +1,7 @@
+<?php
+
+if(!defined('IN_SUPESITE')) exit('Access Denied');
+
+$_DCACHE['style']=Array ('stypeid' => 2,'available' => '','boardimg' => 'logo.gif','imgdir' => '','styleimgdir' => '','font' => 'Verdana, Helvetica, Arial, sans-serif','fontsize' => '12px','smfont' => 'Verdana, Helvetica, Arial, sans-serif','smfontsize' => '0.83em','tabletext' => '#444','midtext' => '#666','lighttext' => '#999','link' => '#000','highlightlink' => '#09C','noticetext' => '#F60','msgfontsize' => '14px','msgbigsize' => '16px','bgcolor' => '#0D2345 bodybg.gif repeat-x 0 90px','sidebgcolor' => '#FFF sidebg.gif repeat-y 100% 0','headerborder' => '1px','headerbordercolor' => '#00B2E8','headerbgcolor' => '#00A2D2 header.gif repeat-x 0 100%','headertext' => '#97F2FF','footertext' => '#8691A2','menuborder' => '#B0E4EF','menubgcolor' => '#EBF4FD mtabbg.gif repeat-x 0 100%','menutext' => '#666','menuhover' => '#1E4B7E','menuhovertext' => '#C3D3E4','wrapwidth' => '960px','wrapbg' => '#FFF','wrapborder' => 0,'wrapbordercolor' => '','contentwidth' => '600px','contentseparate' => '#D3E8F2','inputborder' => '#CCC','inputborderdarkcolor' => '#999','inputbg' => '#FFF','commonborder' => '#E6E7E1','commonbg' => '#F7F7F7','specialborder' => '#E3EDF5','specialbg' => '#EBF2F8','interleavecolor' => '#F5F5F5','dropmenuborder' => '#7FCAE2','dropmenubgcolor' => '#FEFEFE','floatmaskbgcolor' => '#7FCAE2','floatbgcolor' => '#F1F5FA')
+
+?>
